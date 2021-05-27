@@ -3,6 +3,10 @@
     background-color: #e2edff;
 }
 
+.isiAbout p {
+    font-size: 15px;
+}
+
 #project, #contact {
     background-color: #e2edff;
 }
