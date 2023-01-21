@@ -32,20 +32,3 @@ section {
 #gallery .row > * {
   padding: 0;
 }
-
-.footer-custom {
-  background-color: #bad7e9;
-  color: #434242;
-  text-align: center;
-  padding-bottom: 1.5rem;
-}
-
-.footer-custom a {
-  text-decoration: none;
-  color: #434242;
-  font-weight: bold;
-}
-
-.footer-custom a:hover {
-  color: #65647c;
-}
