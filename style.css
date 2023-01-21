@@ -36,11 +36,14 @@ section {
 .footer {
   background-color: #bad7e9;
   color: #434242;
+  text-align: center;
+  padding-bottom: 1.5rem;
 }
 
 .footer a {
   text-decoration: none;
   color: #434242;
+  font-weight: bold;
 }
 
 .footer a:hover {
