@@ -1,24 +1,48 @@
+.nav {
+  background-color: #bad7e9;
+}
+
+.nav-color {
+  text-decoration: none;
+  color: #434242 !important;
+}
+
 .jumbotron {
-    padding-top: 8rem;
-    background-color: #e2edff;
+  padding-top: 8rem;
+  background-color: #bad7e9;
 }
 
 .isiAbout p {
-    font-size: 15px;
+  font-size: 15px;
 }
 
-#project, #contact {
-    background-color: #e2edff;
+#project,
+#contact {
+  background-color: #e2edff;
 }
 
 section {
-    padding-top: 5rem;
+  padding-top: 5rem;
 }
 
 .gallery-img {
-    width: 100%;
+  width: 100%;
 }
 
 #gallery .row > * {
-    padding: 0;
+  padding: 0;
+}
+
+footer {
+  background-color: #bad7e9;
+  color: #434242;
+}
+
+footer p a {
+  text-decoration: none;
+  color: #434242;
+}
+
+footer p a:hover {
+  color: #65647c;
 }
