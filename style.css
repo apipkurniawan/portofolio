@@ -33,16 +33,16 @@ section {
   padding: 0;
 }
 
-footer {
+.footer {
   background-color: #bad7e9;
   color: #434242;
 }
 
-footer p a {
+.footer a {
   text-decoration: none;
   color: #434242;
 }
 
-footer p a:hover {
+.footer a:hover {
   color: #65647c;
 }
