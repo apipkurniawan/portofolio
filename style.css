@@ -1,4 +1,8 @@
-/* css */
+body {
+  font-family: "Sofia Sans", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+}
+
 .jumbotron {
   padding-top: 8rem;
   background-color: #bad7e9;
