@@ -33,19 +33,19 @@ section {
   padding: 0;
 }
 
-.footer {
+.footer-custom {
   background-color: #bad7e9;
   color: #434242;
   text-align: center;
   padding-bottom: 1.5rem;
 }
 
-.footer a {
+.footer-custom a {
   text-decoration: none;
   color: #434242;
   font-weight: bold;
 }
 
-.footer a:hover {
+.footer-custom a:hover {
   color: #65647c;
 }
